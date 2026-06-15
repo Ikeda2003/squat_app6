@@ -2,7 +2,9 @@
 
 MediaPipe と Streamlit を用いて，横向きで撮影したスクワット動画から姿勢を解析するアプリです．  
 動画内の人物の関節位置を推定し，スクワット回数，ひざスコア，腰スコア，総合スコアを表示します．
-
+https://huggingface.co/spaces/tuuree123/squat-evaluator
+動作確認用パスワード：squat60410745
+デモ動画URL：https://drive.google.com/file/d/1YdVaNKiwSYCSeOLI1cCJ5TgvJ1EPI-hu/view?usp=sharing)(github : https://github.com/Ikeda2003/squat_app6
 ## 概要
 
 本アプリは，アップロードした動画に対して姿勢推定を行い，スクワット動作を解析することを目的としています．  
